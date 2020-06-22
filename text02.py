@@ -1,5 +1,6 @@
 
 from socket import *
+#远程修改学习中！！！！！！
 
 """
 author:chj
